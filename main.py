@@ -193,7 +193,7 @@ st.markdown("""
 
 # 🌟 Header
 st.markdown('<div class="main-title">💼 Mahab Muhammad Rizwan</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-title">🌈 Your AI-Powered Portfolio Assistant</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-title">🌈  Mahab’s Persona Assistant</div>', unsafe_allow_html=True)
 
 # 🔍 Input Form
 with st.form("query_form"):
